@@ -28,14 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-## Creamos el login en el localhost 8080
 
-![martes 2](https://github.com/EfrainEmerson2002/Evaluaccion-AA4/assets/90154712/05af563b-72f3-4928-8001-8602b303a2ff)
-
-## Creamos el usuario en el localhost 8080
-
-![martes 1](https://github.com/EfrainEmerson2002/Evaluaccion-AA4/assets/90154712/bee8471d-37e2-4b29-9d6b-755a2d2e0c5a)
-
-## Confirmacion del uso del email y contraseña , en la imagen se puede apreciar que inicio session satisfactoriamente y tambien se puede apreciar el cambio del endpoind a nombre de EfrainAscuna
-
-![EvaluacionAA4](https://github.com/EfrainEmerson2002/Evaluaccion-AA4/assets/90154712/3f113c7a-b7ac-4487-8a7f-e92894ddf14a)
