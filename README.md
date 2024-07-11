@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # LoginPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Evaluaccion-AA4
 >>>>>>> 0dfabce6a828e0cb1e21821a920607af395a25b4
+=======
+# Evaluaccion-AA4
+>>>>>>> 8310dc5833dcbc04d84a2793a90ebc2dc8bf9b6d
